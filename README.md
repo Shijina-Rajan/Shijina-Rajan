@@ -19,21 +19,18 @@ I enjoy building scalable applications, implementing complex business logic, dev
 ### 🚀 Areas of Experience
 
 - eCommerce Platform Development
-- Multi-Tenant Application Development
 - Laravel Backend Development
 - REST API Development and Integration
 - Plugin Development and Customization
 - Cart, Checkout, Order & Promotion Management
 - Inventory and Warehouse Management
-- Shipping, Payment & Courier Integrations
 - Configurable Workflow and Application Management
 - Document Management Systems
 - Dashboard, Analytics & Reporting
 
 ### 🌱 Currently Exploring
 
-- React.js
-- AI Integration
+- AI-assisted development
 - Modern Application Architecture
 - Scalable Application Development
 
